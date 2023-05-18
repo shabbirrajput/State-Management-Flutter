@@ -1,6 +1,6 @@
 # state_management_counter
 
-A new Flutter project.
+State Management Using Bloc,Cubit And Provider In Flutter.
 
 ## Getting Started
 
