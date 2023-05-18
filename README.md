@@ -1,6 +1,6 @@
 # state_management_counter
 
-State Management Using Bloc,Cubit And Provider In Flutter.
+State Management Using Bloc,Cubit And Provider In Flutter. 
 
 ## Getting Started
 
